@@ -14,6 +14,7 @@ Whilst contributing any project, make sure it internally contains the following:
 - requirements.txt' file which would be enclosed with all needed add-ons and libraries that are included in the project.
 
 ## 🧮 Workflow
+- Star this repository
 - Fork the repository
 - Clone your forked repository using terminal or gitbash.
 - Make changes to the cloned repository
