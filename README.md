@@ -1,4 +1,4 @@
-# IEEEHacksML-DL
+
 
 ## 🔴 Hola contributors!:yellow_circle:
 Welcome to the OpenSource Event for IEEE Hacks 2022! This repository aims to be the hub of various ML projects which will be the resources for your fellow ML enthusiasts!
